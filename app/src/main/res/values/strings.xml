@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="ques1">What is your name ?</string>
+    <string name="o1">Ram</string>
+    <string name="o2">Lakhan</string>
+    <string name="o3">Bharat</string>
+    <string name="o4">Shatrugan</string>
+    <string name="title_activity_answer">answer</string>
+
+</resources>
